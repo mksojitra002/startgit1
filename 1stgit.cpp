@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
     cout<<"hello margish"<<endl;
-    return 0;clearerr()
+    return 0;
 }
